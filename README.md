@@ -1,22 +1,24 @@
-Hi, I’m Greg.
+Hi, I’m Greg!
 
-I am currently looking for work as an entry level data analyst! 
+I am currently looking for work as a data analyst! I am currently residing in the Seattle area.
 
-I got a degree in Mechanical Engineering and worked about 5 years in various roles building refrigerators, supporting Disney's parks and supporting airplane production. I was exposed to lots of data through my work and then took various Data Science courses through Udacity and Coursera. 
-I then decided to learn it full time and am working on a few certificates at my local college.
+About me...
 
-My skills in Data Science include coding in SQL, Python and R. I have familiarity with working with databases in MS SSMS. I am proficient in Tableau for visualization and PowerPivot for creating pivot tables and for visualizations.
+I got a Bachelor's degree in mechanical engineering at the University of Florida and completed a few internships along the way at General Electric, Disney and Boeing. After graduation, I decided to work for Boeing as a liaison engineer manufacturing commercial airplanes and then switching roles to developing fastening and assembly technologies. I was exposed to a lot of data and spreadsheets in my career. I gained an interest in the analytical side and through taking various courses on Udacity and Coursera, I was exposed to many aspects of data science such as programming, creating visualizations and building machine learning models. I then decided to go back to school full time and got a technical 2 year degree in Artificial Intelligence at Bellevue College and completed the Google Data Analyst program on Cousera. Here are some key skills that I have acquired through the programs.
 
-For analytics, I have an understanding of statistics such as probablilities, distributions, variance and regression. I have learned and applied various machine learning models using Scikit-learn such as logistic regression, KNN, SVM, neural networks and K Means.
+Programming: Through the programs I was able to build upon my programming skills in SQL, Python and R. 
 
-I have also taken some courses in computer vision and understand basic image representation and object detection and recongition concepts.
+Visualization: I became proficient in creating visualizations in Tableau and Excel and creating pivot tables in PowerPivot.
 
-In addition, I have taken some business intelligence courses in data modeling and business analysis. I have used Visual Studios for working with multi-dimensional databases creating cubes and reports. I have also used the software to create mining models such as decision trees and for clustering.
+Statistics: With my background in engineering, I have taken many courses in math and statistics and have a good understanding of probabilities, distributions, variance and regression. I did recently complete another refresh course in statistics. 
 
-Will upload my work here for exposure.
+Machine Learning: One of my favorite aspects of data science has been creating and applying various machine learning models such as logistic regression, KNN, SVM, neural networks and K Means. I am familiar with the Scikit-learn python packages.
 
-Currently residing in the Seattle area.
+Computer Vision: I have also taken some courses in computer vision and have a basic understanding of image representation and object detection/recognition concepts using the OpenCV library.
 
+Business Intelligence: In addition, I got my Business Intelligence Analyst Certification. I have a good understanding of relational database design and business analysis.
+
+I will upload some of my past projects here for exposure.
 
 
 <!---
